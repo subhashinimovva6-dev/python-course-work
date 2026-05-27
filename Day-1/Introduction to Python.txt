@@ -1,0 +1,22 @@
+Introduction to Python:
+
+Python is a high-level, easy-to-learn programming language created by Guido van Rossum in 1991. It is simple, readable, and widely used for web development, software development, data science, artificial intelligence, and automation.
+
+Features of Python:
+
+Easy to learn and use
+Simple syntax
+Platform independent
+Open-source language
+Supports object-oriented programming
+Large library support
+
+Uses of Python:
+
+Web development
+Data analysis
+Artificial Intelligence
+Machine Learning
+Game development
+Automation
+
